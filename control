@@ -1,0 +1,9 @@
+Package: me.a1iraqi.alfiras
+Name: ALFiras
+Depends: mobilesubstrate,ws.hbang.common
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Azozz ALFiras
+Author: Azozz ALFiras
+Section: Tweaks

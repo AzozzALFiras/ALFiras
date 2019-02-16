@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.i1iraqi.alfiras.preferences-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.i1iraqi.ALFiras</string>
+			<key>cellClass</key>
+			<string>myTableCell</string>
+			<key>key</key>
+			<string>enable</string>
+			<key>label</key>
+			<string>Save Snaps</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Source</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>cydia</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>cydia.png</string>
+			<key>label</key>
+			<string>My Cydia Source</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Click here to follow me and stay updated</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>tweet</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>twitter.png</string>
+			<key>label</key>
+			<string>Follow me on twitter</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Click here to follow me on Instagram</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>instagram</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>instagram.png</string>
+			<key>label</key>
+			<string>Follow me on Instagram</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Click here to add me on Snapchat</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>snapchat</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>snapchat.png</string>
+			<key>label</key>
+			<string>Add me on Snapchat</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Click here to support my work :)</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>paypal</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>paypal.png</string>
+			<key>label</key>
+			<string>Donate</string>
+		</dict>
+		<dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>footerText</key>
+      <string>© Developed by Azzoz ALFiras (@AzozzALFiras) </string>
+      <key>isStaticText</key>
+      <true/>
+    </dict>
+		
+	</array>
+	<key>title</key>
+	<string>ALFiras</string>
+</dict>
+</plist>
